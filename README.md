@@ -1,5 +1,6 @@
 # Weather SDK and App
-## _This App is built to Accomplish Following Requirements._
+## Prerequisite: 
+Android Studio Arctic Fox or later is required. If you haven't already done so, [Download](https://developer.android.com/studio/index.html) and install it.
 
 ## Screen 1
 
